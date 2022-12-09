@@ -1,6 +1,6 @@
 # Woordgeslacht
 
-Deze voorziening zoekt bij een gegeven woord het lidwoord en bezittelijk voornaamwoord op in
+Deze [voorziening](https://support.apple.com/nl-nl/guide/mac-help/mchlp1012/mac) zoekt bij een gegeven woord het lidwoord en bezittelijk voornaamwoord op in
 de [Woordenlijst](https://www.woordenlijst.org).
 
 Bijvoorbeeld: `applicatie` wordt `de applicatie en haar…`.
